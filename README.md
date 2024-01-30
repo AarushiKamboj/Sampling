@@ -75,5 +75,7 @@ KNN: 0.9375
 
 # Conclusion
 In summary, each sampling technique was applied to create five distinct samples, and five different machine learning models were trained on each sample.
+
 The Random Forest model consistently achieved high accuracy across various sampling techniques.
+
 Notably, when applied to the Stratified Sampling technique, the Random Forest model outperformed all other models, yielding perfect accuracy. These findings provide insights into the effectiveness of different sampling techniques in improving model performance for credit card fraud detection.

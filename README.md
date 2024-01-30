@@ -10,8 +10,9 @@ The dataset consists of credit card transactions with 30 features, and the class
 # Sampling Techniques
 # 1. Simple Random Sampling
 Technique Description: Random selection of samples from the population.
-Results:
+# Results:
 Random Forest: 0.9870
+
 Logistic Regression: 0.8831
 Naive Bayes: 0.7013
 Decision Trees: 0.9610
